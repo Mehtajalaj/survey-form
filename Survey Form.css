@@ -1,0 +1,37 @@
+body{
+    text-align: justify;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    background-image: url(https://s3.envato.com/files/a4c2e1aa-9c57-4516-8d8b-9ae80aae23a5/inline_image_preview.jpg);
+}
+#title,#description{
+    text-align: center;
+    color: #FFFFFF;
+}
+#survey-form{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 15%, rgba(0,212,255,1) 100%);
+    margin: auto 20%;
+    padding: 30px;
+    font-weight: 500;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    /* font-family: 'Raleway', sans-serif;; */
+}
+
+#suggesstion{
+    padding: 20px;
+    width: auto;
+}
+
+#submit{
+    margin-left: 50%;
+    background-color: green;
+    color: #FFFFFF;
+    border-radius: 20%;
+    /* padding-left: 50px; */
+}
+footer,#me{
+    color: #FFFFFF;
+    text-align: center;
+}
